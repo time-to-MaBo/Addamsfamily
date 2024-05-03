@@ -44,7 +44,7 @@ For questions, bug reports, hints, assistance etc please contact me via maximili
 
 The package can be installed from git directly 
 ```{r install_git, echo=TRUE, eval = FALSE}
-devtools::install_github("Addamsfamily",username="Maximilian_Bardo")
+devtools::install_github("time-to-MaBo/Addamsfamily")
 ```
 or from local machine
 ```{r install_loc, echo=TRUE, eval = FALSE}
